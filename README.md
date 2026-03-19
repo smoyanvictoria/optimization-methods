@@ -1,1 +1,1 @@
-# lab1-options-mode
+# optimization methods
