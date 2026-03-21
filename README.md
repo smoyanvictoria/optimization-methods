@@ -8,8 +8,8 @@ The implementations are written in Python and include graphical visualizations t
 
 ## Implemented Methods
 
-### 1. Enumeration Method
-The enumeration (exhaustive search) method is one of the simplest optimization techniques. It checks multiple points in the given interval with a fixed step size and finds the point that gives the minimum function value.
+### 1. Options Method
+The options method is one of the simplest optimization techniques. It checks multiple points in the given interval with a fixed step size and finds the point that gives the minimum function value.
 
 ### 2. Interval Halving Method
 This method repeatedly divides the interval into smaller parts and eliminates regions where the minimum cannot exist. It is more efficient than the enumeration method because it reduces the search space faster.
@@ -29,7 +29,7 @@ The golden section search is an efficient optimization algorithm that uses the g
 
 optimization-methods
 
-01-enumeration-method.ipynb – Enumeration method implementation
+01-options-method.ipynb – Options method implementation
 
 02-section-splitting-method.ipynb – Interval halving method implementation
 
