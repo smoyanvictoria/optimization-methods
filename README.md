@@ -47,6 +47,3 @@ The implemented methods successfully find the minimum of the given function and 
 
 Victoria Smoyan
 
-## Course
-
-Numerical Methods / Optimization Methods Laboratory Work
